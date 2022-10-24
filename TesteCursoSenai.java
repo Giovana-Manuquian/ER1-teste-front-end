@@ -35,8 +35,8 @@ public class TesteCursoSenai {
 	
 	//finalização
 	//@After
-	
-	
-	
-
+	public void Fim (){
+		driver.quit();
+	}
+		
 }
